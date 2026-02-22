@@ -6,4 +6,5 @@ This guide will walk you through how to read the display, control your heater, a
 
 ---
 1. [Board Configuration](board_configuration.md)
-2. [Logging And Centralized Control](logging_and_centralized_control.md)
+1. [Logging And Centralized Control](logging_and_centralized_control.md)
+1. [Relay Connection](relay_connection.md)
